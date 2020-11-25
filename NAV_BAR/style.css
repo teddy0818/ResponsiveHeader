@@ -5,7 +5,7 @@
   --accent-color: #d49466;
 }
 
-/* body li 등등 기본적은 margin 이나 padding 주의! */
+/* body li 등등 기본적은 margin 이나 padding 이 있으니 주의! */
 body {
   margin: 0;
   font-family: "Source Sans Pro";

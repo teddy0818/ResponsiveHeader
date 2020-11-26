@@ -11,6 +11,11 @@ body {
   font-family: "Source Sans Pro";
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 a {
   text-decoration: none;
   /* css 변수는 이렇게 쓴다! */
